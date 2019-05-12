@@ -15,7 +15,7 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
 	* [Building your Deep Neural Network: Step by Step](https://github.com/yujuezhao/deeplearning-course/blob/master/1%E3%80%81Neural%20Networks%20and%20Deep%20Learning/04_deep-neural-networks/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep.ipynb)
 	* [Deep Neural Network for Image Classification: Application](https://github.com/yujuezhao/deeplearning-course/blob/master/1%E3%80%81Neural%20Networks%20and%20Deep%20Learning/04_deep-neural-networks/Deep%2BNeural%2BNetwork%2B-%2BApplication/Deep%2BNeural%2BNetwork%2B-%2BApplication.ipynb)
 ***
-## course 2
+## course 2: Improving Deep Neural Networks：Hyperparameter tuning, Regularization and Optimization
 * Week1
 	* Lesson1
 		* [train\dev\test set](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson1/traindevtest%20sets.pdf)

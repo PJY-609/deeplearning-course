@@ -1,8 +1,8 @@
 ###  human performance 
 
-<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/1.PNG' width="50%" height="50%">
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/1.PNG' width="70%" height="70%">
 
-<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/2.PNG' style='zoom:50%'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/2.PNG' width="70%" height="70%">
 
 ***
 
@@ -17,19 +17,19 @@
   - earlier assumed to be 0, but most cases can't be 0
 - <img src="http://latex.codecogs.com/gif.latex?{Bayes\ error\ (human-level\ error ) \xrightarrow{avoidable\ error}training\ error \xrightarrow{variance}dev\ error}" />
 
-<img src="https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/3.PNG" style='zoom:50%'>
+<img src="https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/3.PNG" width="70%" height="70%">
 
 ***
 
 ### understanding human performance 
 
-<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/4.PNG' style='zoom:50%'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/4.PNG' width="70%" height="70%">
 
-<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/5.PNG' style="zoom:50%">
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/5.PNG' width="70%" height="70%">
 
 ***
 
 ### improving model performance
 
-<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/6.PNG' style='zoom:50%'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/6.PNG' width="70%" height="70%">
 

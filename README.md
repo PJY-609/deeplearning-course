@@ -58,7 +58,7 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
 		* [tensorflow tutorial](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson5/tensorflow/Tensorflow%20Tutorial.ipynb)
 ***
 ## course3: Structuring Machine Learning Projects
-* 01_ml-strategy-1/01_introduction-to-ml-strategy 
+* 01_ml-strategy-1 
 	* 01_introduction-to-ml-strategy
 		* [orthogonalization](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/01_introduction-to-ml-strategy/Orthogonalization.md)
 	* 02_setting-up-your-goal

@@ -1,6 +1,6 @@
 ###  human performance 
 
-<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/1.PNG' style='zoom:50%'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/1.PNG' width="50%" height="50%">
 
 <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/2.PNG' style='zoom:50%'>
 

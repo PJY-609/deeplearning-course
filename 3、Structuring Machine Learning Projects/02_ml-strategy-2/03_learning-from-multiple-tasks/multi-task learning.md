@@ -1,29 +1,19 @@
 ### multi-task learning 
 
-<img src='images\3.png'>
-$$
-Y=\begin{bmatrix}
-\vdots & \vdots & &\vdots\\
-y^{(1)}& y^{(2)}& \cdots & y^{(m)}\\
-\vdots & \vdots & &\vdots
-\end{bmatrix}
-,\ 
-(c,m)
-$$
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/03_learning-from-multiple-tasks/images/3.PNG' height="70%" width="70%">
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/03_learning-from-multiple-tasks/images/gif%20(1).gif'>
 
 
 
 
-<img src='images\4.png'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/03_learning-from-multiple-tasks/images/4.PNG' height="70%" width="70%">
 
 $Given\ \hat y^{(i)}\ is\ (c,1)\\$
-$$
-Loss=\frac{1}{m}\sum^m_{i=1}\sum^c_{j=1}\mathscr{L}(\hat y^{(i)}_{j},y^{(i)}_{(j)}),\ sum\ over\ only\ when\ the\ label\ makes\ sense\\
-\mathscr{L}(\hat y^{(i)}_{j},y^{(i)}_{(j)})=-y^{(i)}_{(j)}log(\hat y^{(i)}_{(j)})-(1-y^{(i)}_{(j)})log(1-\hat y^{(i)}_{(j)})
-$$
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/03_learning-from-multiple-tasks/images/gif(2).gif'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/03_learning-from-multiple-tasks/images/gif(3).gif'>
 $Unlike\ softmax$
 
 
 
-<img src='images\5.png'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/03_learning-from-multiple-tasks/images/5.PNG' height="70%" width="70%">
 

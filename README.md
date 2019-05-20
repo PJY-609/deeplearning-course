@@ -56,3 +56,30 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
 		* [tensorflow](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson4/tensorflow.pdf)
 	* Lesson5
 		* [tensorflow tutorial](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson5/tensorflow/Tensorflow%20Tutorial.ipynb)
+***
+## 3、Structuring Machine Learning Projects
+* 01_ml-strategy-1/01_introduction-to-ml-strategy 
+	* 01_introduction-to-ml-strategy
+		* [orthogonalization](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/01_introduction-to-ml-strategy/Orthogonalization.md)
+	* 02_setting-up-your-goal
+		* [determine metrics](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/02_setting-up-your-goal/Determine%20metrics.md)
+		* [train, dev, test distribution](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/02_setting-up-your-goal/train,%20dev,%20test%20distribution.md)
+	* 03_comparing-to-human-level-performance
+		* [human performance](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/human%20performance.md)
+	* 04_machine-learning-flight-simulator
+		* [Week 1 Quiz - Bird recognition in the city of Peacetopia](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/04_machine-learning-flight-simulator/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
+* 02_ml-strategy-2
+	* 01_error-analysis
+		* [error analysis](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/01_error-analysis/Error%20analysis.md)
+		* [clean up mislabeled data](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/01_error-analysis/Clean%20up%20mislabeled%20data.md)
+		* [build the 1st system then quickly iterate](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/01_error-analysis/Build%20the%201st%20system%20then%20quickly%20iterate.md)
+	* 02_mismatched-training-and-dev-test-set
+		* [training and testing on different distribution](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/02_mismatched-training-and-dev-test-set/1.%20training%20and%20testing%20on%20different%20distribution.md)
+		* [bias and variance with mismatched data distribution](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/02_mismatched-training-and-dev-test-set/2.%20Bias%20and%20variance%20with%20mismatched%20data%20distribution.md)
+		* [addressing data synthesis](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/02_mismatched-training-and-dev-test-set/3.%20addressing%20data%20synthesis.md)
+	* 03_learning-from-multiple-tasks
+		* [multi-task learning](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/03_learning-from-multiple-tasks/multi-task%20learning.md)
+		* [transfer learning](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/03_learning-from-multiple-tasks/transfer%20learning.md)
+	* 04_end-to-end-deep-learning
+		* [end-to-end learning](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/04_end-to-end-deep-learning/end-to-end%20learning.md)
+		* [Week 2 Quiz - Autonomous driving (case study)](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/04_end-to-end-deep-learning/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)

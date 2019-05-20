@@ -15,7 +15,7 @@
 * **Downside**
   * can't judge whether A or B is better, each performs better at a single metric
 
-* <img src="http://latex.codecogs.com/gif.latex? F_1\ score={'average'\ of\ precision\ and\ recall}" />
+* <img src="http://latex.codecogs.com/gif.latex? F_1\ score={'average' of precision and recall}" />
 * <img src="http://latex.codecogs.com/gif.latex? \frac{2}{\frac{1}{P}+\frac{1}{R}}"/>
 
 ***

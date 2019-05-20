@@ -1,8 +1,8 @@
 ###  human performance 
 
-<img src='images\1.png' style='zoom:30'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/1.PNG' style='zoom:30'>
 
-<img src='images\2.png' style='zoom:30'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/2.PNG' style='zoom:30'>
 
 ***
 
@@ -17,19 +17,19 @@
   - earlier assumed to be 0, but most cases can't be 0
 - $Bayes\ error\ (human-level\ error ) \xrightarrow{avoidable\ error}training\ error \xrightarrow{variance}dev\ error$
 
-<img src="images/3.png" style='zoom:30'>
+<img src="https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/3.PNG" style='zoom:30'>
 
 ***
 
 ### understanding human performance 
 
-<img src='images\4.png' style='zoom:30'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/4.PNG' style='zoom:30'>
 
-<img src='images\5.png' style="zoom:30">
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/5.PNG' style="zoom:30">
 
 ***
 
 ### improving model performance
 
-<img src='images\6.png' style='zoom:30'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/images/6.PNG' style='zoom:30'>
 

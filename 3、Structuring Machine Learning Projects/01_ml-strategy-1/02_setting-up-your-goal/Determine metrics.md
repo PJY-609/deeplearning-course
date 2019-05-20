@@ -1,4 +1,4 @@
-## Determine metric
+## Determine metrics
 
 ### Use single number evaluation metric
 

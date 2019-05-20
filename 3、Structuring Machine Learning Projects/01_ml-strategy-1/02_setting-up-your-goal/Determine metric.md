@@ -16,7 +16,7 @@
   * can't judge whether A or B is better, each performs better at a single metric
 
 * $F_1\ score='average'\ of\ precision\ and \ recall$
-  * $\frac{2}{\frac{1}{P}+\frac{1}{R}}$
+  * <img src="http://latex.codecogs.com/gif.latex?$\frac{2}{\frac{1}{P}+\frac{1}{R}}$>
 
 ***
 
@@ -31,7 +31,7 @@
 - **optimizing**: maximize accuracy
 - **satisficing**: subject to running time $\leq$ 100ms
 - N metric: 1 optimizing, N-1 satisficing
-- $cost=accuracy-0.5*running_time$
+- <img src="http://latex.codecogs.com/gif.latex?$cost=accuracy-0.5*running_time$>
 
 ***
 

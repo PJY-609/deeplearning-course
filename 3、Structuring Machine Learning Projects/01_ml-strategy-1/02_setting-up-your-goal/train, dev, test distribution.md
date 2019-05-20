@@ -1,10 +1,10 @@
 ### train, dev, test distribution
 
-<img src='images\1.png' style='zoom:30'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/02_setting-up-your-goal/images/1.PNG' style='zoom:30'>
 
-<img src='images\2.PNG' style='zoom:30'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/02_setting-up-your-goal/images/2.PNG' style='zoom:30'>
 
-<img src='images\3.png' style='zoom:30'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/02_setting-up-your-goal/images/3.PNG' style='zoom:30'>
 
 ***
 

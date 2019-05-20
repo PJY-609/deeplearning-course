@@ -31,7 +31,7 @@
 - **optimizing**: maximize accuracy
 - **satisficing**: subject to running time $\leq$ 100ms
 - N metric: 1 optimizing, N-1 satisficing
-- <img src="http://latex.codecogs.com/gif.latex? cost=accuracy-0.5*running\_time" />
+- <img src="http://latex.codecogs.com/gif.latex? cost=accuracy-0.5*running\_\,time" />
 
 ***
 

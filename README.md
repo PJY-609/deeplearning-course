@@ -97,3 +97,6 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
 		* [CNN example](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/CNN%20example.html)
 		* [why CNN](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Why%20CNN.html)
 		* [W1 Quiz The basics of ConvNets](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/W1%20Quiz%20The%20basics%20of%20ConvNets.html)
+	 * 02_programming-assignments
+	 	 * [Convolution model - Step by Step](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/02_programming-assignments/Convolution%20model%20-%20Step%20by%20Step.ipynb)
+		 * [Convolution model - Application](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/02_programming-assignments/Convolution%20model%20-%20Application/Convolution%20model%20-%20Application.ipynb)

@@ -83,3 +83,17 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
 	* 04_end-to-end-deep-learning
 		* [end-to-end learning](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/04_end-to-end-deep-learning/end-to-end%20learning.md)
 		* [Week 2 Quiz - Autonomous driving (case study)](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/04_end-to-end-deep-learning/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
+***
+## course4: Convolutional Neural Networks
+* Week1
+	* 01_convolutional-neural-networks
+		* [edge detection example](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Edge%20detection%20example.html)
+		* [padding](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Padding.html)
+		* [strided convolution](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Strided%20convolutions.html)
+		* [convolution over volume](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Convolutions%20over%20volume.html)
+		* [one layer of CNN](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/One%20layer%20of%20a%20convolution%20neural%20network.html)
+		* [simple CNN example](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Simple%20convolutional%20network%20example.html)
+		* [pooling](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Pooling.html)
+		* [CNN example](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/CNN%20example.html)
+		* [why CNN](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Why%20CNN.html)
+		* [W1 Quiz The basics of ConvNets](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/W1%20Quiz%20The%20basics%20of%20ConvNets.html)

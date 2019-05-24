@@ -100,3 +100,14 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
 	 * 02_programming-assignments
 	 	 * [Convolution model - Step by Step](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/02_programming-assignments/Convolution%20model%20-%20Step%20by%20Step.ipynb)
 		 * [Convolution model - Application](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/02_programming-assignments/Convolution%20model%20-%20Application/Convolution%20model%20-%20Application.ipynb)
+* Week2
+	* 01_case-studies
+		* [classic networks](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/01_case-studies/Classic%20networks.md)
+		* [resnet](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/01_case-studies/Residual%20block.html)
+		* [1 x 1 convolution](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/01_case-studies/1%20times%201%20convolution.md)
+		* [inception network](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/01_case-studies/Inception%20network.html)
+	* 02_practical-advices-for-using-convnets
+		* [transfer learning](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/Transfer%20learning.md)
+		* [data augmentation](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/Data%20augmentation.md)
+		* [state of computer vision](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/state%20of%20computer%20vision.md)
+		* [W2 Quiz Deep convolutional models](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/W2%20Quiz%20Deep%20convolutional%20models.html)

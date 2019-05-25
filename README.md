@@ -111,3 +111,6 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
 		* [data augmentation](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/Data%20augmentation.md)
 		* [state of computer vision](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/state%20of%20computer%20vision.md)
 		* [W2 Quiz Deep convolutional models](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/W2%20Quiz%20Deep%20convolutional%20models.html)
+	* 03_programming-assignments
+		* [Keras - Tutorial - Happy House](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/03_programming-assignments/Keras-Tutorial-Happy%20House/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
+		* [Residual Networks](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/03_programming-assignments/ResNets/Residual%20Networks.ipynb)

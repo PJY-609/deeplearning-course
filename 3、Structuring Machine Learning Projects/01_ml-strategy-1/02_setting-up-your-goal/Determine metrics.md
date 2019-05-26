@@ -7,7 +7,7 @@
 |     A      |    95%    |  90%   |  92.4%   |
 |     B      |    98%    |  85%   |  91.0%   |
 
-* **Precision**
+* **Precision**  
   * if A says it is a *cat*, then there is 95% it is a *cat*
 *  **Recall**
   * if all the images are *cats*, A would recognize 90% of them as *cats*

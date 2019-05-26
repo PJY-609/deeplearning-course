@@ -9,14 +9,14 @@
 
 * **Precision**  
   * if A says it is a *cat*, then there is 95% it is a *cat*
-*  **Recall**
+*  **Recall**  
   * if all the images are *cats*, A would recognize 90% of them as *cats*
 
-* **Downside**
+* **Downside**  
   * can't judge whether A or B is better, each performs better at a single metric
 
-* <img src="http://latex.codecogs.com/gif.latex? \hspace{1cm} F_1\ score={'average' \; of\; precision\; and\; recall}" />
-* <img src="http://latex.codecogs.com/gif.latex? \frac{2}{\frac{1}{P}+\frac{1}{R}}"/>
+* <img src="http://latex.codecogs.com/gif.latex? \hspace{1cm} F_1\ score={'average' \; of\; precision\; and\; recall}" />  
+  * <img src="http://latex.codecogs.com/gif.latex? \frac{2}{\frac{1}{P}+\frac{1}{R}}"/>
 
 ***
 

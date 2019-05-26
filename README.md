@@ -63,7 +63,7 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
 		* [orthogonalization](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/01_introduction-to-ml-strategy/Orthogonalization.md)
 	* 02_setting-up-your-goal
 		* [determine metrics](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/02_setting-up-your-goal/Determine%20metrics.html)
-		* [train, dev, test distribution](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/02_setting-up-your-goal/train,%20dev,%20test%20distribution.md)
+		* [train, dev, test distribution](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/02_setting-up-your-goal/train,%20dev,%20test%20distribution.html)
 	* 03_comparing-to-human-level-performance
 		* [human performance](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/01_ml-strategy-1/03_comparing-to-human-level-performance/human%20performance.md)
 	* 04_machine-learning-flight-simulator

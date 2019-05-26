@@ -78,11 +78,11 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
 		* [bias and variance with mismatched data distribution](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/02_mismatched-training-and-dev-test-set/2.%20Bias%20and%20variance%20with%20mismatched%20data%20distribution.html)
 		* [addressing data synthesis](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/02_mismatched-training-and-dev-test-set/3.%20addressing%20data%20synthesis.html)
 	* 03_learning-from-multiple-tasks
-		* [multi-task learning](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/03_learning-from-multiple-tasks/multi-task%20learning.md)
-		* [transfer learning](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/03_learning-from-multiple-tasks/transfer%20learning.md)
+		* [multi-task learning](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/03_learning-from-multiple-tasks/multi-task%20learning.html)
+		* [transfer learning](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/03_learning-from-multiple-tasks/transfer%20learning.html)
 	* 04_end-to-end-deep-learning
-		* [end-to-end learning](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/04_end-to-end-deep-learning/end-to-end%20learning.md)
-		* [Week 2 Quiz - Autonomous driving (case study)](https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/04_end-to-end-deep-learning/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
+		* [end-to-end learning](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/04_end-to-end-deep-learning/end-to-end%20learning.html)
+		* [Week 2 Quiz - Autonomous driving (case study)](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/3%E3%80%81Structuring%20Machine%20Learning%20Projects/02_ml-strategy-2/04_end-to-end-deep-learning/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).html)
 ***
 ## course4: Convolutional Neural Networks
 * Week1

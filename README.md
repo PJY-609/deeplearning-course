@@ -114,3 +114,19 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
 	* 03_programming-assignments
 		* [Keras - Tutorial - Happy House](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/03_programming-assignments/Keras-Tutorial-Happy%20House/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
 		* [Residual Networks](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/03_programming-assignments/ResNets/Residual%20Networks.ipynb)
+
+* Week3
+  * [object localization](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/Object%20localization.html)
+  * [landmark detection](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/Landmark%20detection.html)
+  * [object bounding box detection convolution implementation ](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/Object%20detection%20and%20YOLO%20algorithm.html)
+  * [intersection over union](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/Intersection%20over%20union.html)
+  * [non-max suppression](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/Non-max%20suppression.html)
+  * [anchor boxes](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/Anchor%20boxes.html)
+  * [putting together YOLO algorithm](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/Putting%20together%20YOLO%20algorithm.html)
+  * [regional proposal R-CNN](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/Region%20proposal%20R-CNN.html)
+  * [W3 Quiz Detection Algorithm](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/W3%20Quiz%20Detection%20Algorithm.html)
+
+* Week4
+  * [01_face-recognition](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/01_face-recognition/Face%20recognition.html)
+  * [02_neural-style-transfer](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/02_neural-style-transfer/Neural%20style%20transfer.html)
+  * [W4 Quiz Special applications：Face recognition & Neural style transfer](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/Special%20applications%EF%BC%9AFace%20recognition%20%26%20Neural%20style%20transfer.html)

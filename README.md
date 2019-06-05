@@ -17,45 +17,46 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
 ***
 ## course 2: Improving Deep Neural Networks：Hyperparameter tuning, Regularization and Optimization
 * Week1
-	* Lesson1
-		* [train\dev\test set](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson1/traindevtest%20sets.pdf)
-		* [bias and variance](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson1/Bias%20and%20Variance.pdf)
-		* [basic recipe for machine learning](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson1/Basic%20recipe%20for%20machine%20learning.pdf)
-	* Lesson2
-		* [regulization](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson2/Regularization.pdf)
-		* [dropout](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson2/Dropout%20regularization.pdf)
-		* [other regulization tech](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson2/Other%20regularization%20techniques.pdf)
-	* Lesson3
-		* [gradient checking](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson3/Gradient%20checking.pdf)
-		* [vanishing\exploding gradients](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson3/Vanishingexploding%20gradients.pdf)
-		* [normalizing training set](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson3/Normalizing%20training%20set.pdf)
-	* Lesson4
-		* [initialization](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson4/initialization/Initialization.ipynb)
-		* [regulization](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson4/regularization/Regularization.ipynb)
-		* [gradient checking](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson4/gradient%20checking/Gradient%20Checking.ipynb)
+  * Lesson1
+    * [train\dev\test set](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson1/traindevtest%20sets.pdf)
+    * [bias and variance](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson1/Bias%20and%20Variance.pdf)
+    * [basic recipe for machine learning](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson1/Basic%20recipe%20for%20machine%20learning.pdf)
+  * Lesson2
+    * [regulization](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson2/Regularization.pdf)
+    * [dropout](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson2/Dropout%20regularization.pdf)
+    * [other regulization tech](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson2/Other%20regularization%20techniques.pdf)
+  * Lesson3
+    * [gradient checking](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson3/Gradient%20checking.html)
+    * [vanishing\exploding gradients & initialization](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson3/Vanishingexploding%20gradients.html)
+    * [initialization (supplementary)](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson3/Initialization%20(supplementary).html)
+    * [normalizing training set](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson3/Normalizing%20training%20set.html)
+  * Lesson4
+    * [initialization](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson4/initialization/Initialization.ipynb)
+    * [regulization](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson4/regularization/Regularization.ipynb)
+    * [gradient checking](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson4/gradient%20checking/Gradient%20Checking.ipynb)
 * Week2
-	* Lesson1
-		* [mini-batch](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/mini-batch%20gradient%20descent.pdf)
-		* [learning rate decay](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/Learning%20rate%20decay.pdf)
-		* [exponentially weighted averges](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/Exponentially%20weighted%20averages.pdf)
-		* [momentum](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/Gradient%20decsent%20momentum.pdf)
-		* [RMSprop](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/RMSprop.pdf)
-		* [Adam](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/Adam%20optimization%20algorithm.pdf)
-	* Lesson2
-		* [optimization method](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson2/optimization/Optimization%20methods.ipynb)
+  * Lesson1
+  	* [mini-batch](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/mini-batch%20gradient%20descent.pdf)
+  	* [learning rate decay](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/Learning%20rate%20decay.pdf)
+  	* [exponentially weighted averges](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/Exponentially%20weighted%20averages.pdf)
+  	* [momentum](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/Gradient%20decsent%20momentum.pdf)
+  	* [RMSprop](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/RMSprop.pdf)
+  	* [Adam](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/Adam%20optimization%20algorithm.pdf)
+  * Lesson2
+  	* [optimization method](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson2/optimization/Optimization%20methods.ipynb)
 
 * Week3
-	* Lesson1
-		* [tuning process](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson1/tuning%20process.pdf)
-		* [appropriate scale for choosing hyperparameters](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson1/using%20an%20appropriate%20scale%20to%20pick%20hyperparameters.pdf)
-	* Lesson2
-		* [batch normalization](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson2/Batch%20normalization.pdf)
-	* Lesson3
-		* [softmax](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson3/Softmax%20regression.pdf)
-	* Lesson4
-		* [tensorflow](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson4/tensorflow.pdf)
-	* Lesson5
-		* [tensorflow tutorial](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson5/tensorflow/Tensorflow%20Tutorial.ipynb)
+  * Lesson1
+  	* [tuning process](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson1/tuning%20process.pdf)
+  	* [appropriate scale for choosing hyperparameters](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson1/using%20an%20appropriate%20scale%20to%20pick%20hyperparameters.pdf)
+  * Lesson2
+  	* [batch normalization](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson2/Batch%20normalization.pdf)
+  * Lesson3
+  	* [softmax](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson3/Softmax%20regression.pdf)
+  * Lesson4
+  	* [tensorflow](https://github.com/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson4/tensorflow.pdf)
+  * Lesson5
+  	* [tensorflow tutorial](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson5/tensorflow/Tensorflow%20Tutorial.ipynb)
 ***
 ## course3: Structuring Machine Learning Projects
 * 01_ml-strategy-1 
@@ -86,34 +87,34 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
 ***
 ## course4: Convolutional Neural Networks
 * Week1
-	* 01_convolutional-neural-networks
-		* [edge detection example](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Edge%20detection%20example.html)
-		* [padding](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Padding.html)
-		* [strided convolution](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Strided%20convolutions.html)
-		* [convolution over volume](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Convolutions%20over%20volume.html)
-		* [one layer of CNN](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/One%20layer%20of%20a%20convolution%20neural%20network.html)
-		* [simple CNN example](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Simple%20convolutional%20network%20example.html)
-		* [pooling](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Pooling.html)
-		* [CNN example](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/CNN%20example.html)
-		* [why CNN](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Why%20CNN.html)
-		* [W1 Quiz The basics of ConvNets](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/W1%20Quiz%20The%20basics%20of%20ConvNets.html)
-	 * 02_programming-assignments
-	 	 * [Convolution model - Step by Step](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/02_programming-assignments/Convolution%20model%20-%20Step%20by%20Step.ipynb)
-		 * [Convolution model - Application](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/02_programming-assignments/Convolution%20model%20-%20Application/Convolution%20model%20-%20Application.ipynb)
+  * 01_convolutional-neural-networks
+  	* [edge detection example](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Edge%20detection%20example.html)
+  	* [padding](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Padding.html)
+  	* [strided convolution](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Strided%20convolutions.html)
+  	* [convolution over volume](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Convolutions%20over%20volume.html)
+  	* [one layer of CNN](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/One%20layer%20of%20a%20convolution%20neural%20network.html)
+  	* [simple CNN example](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Simple%20convolutional%20network%20example.html)
+  	* [pooling](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Pooling.html)
+  	* [CNN example](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/CNN%20example.html)
+  	* [why CNN](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/Why%20CNN.html)
+  	* [W1 Quiz The basics of ConvNets](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/W1%20Quiz%20The%20basics%20of%20ConvNets.html)
+   * 02_programming-assignments
+   	 * [Convolution model - Step by Step](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/02_programming-assignments/Convolution%20model%20-%20Step%20by%20Step.ipynb)
+  	 * [Convolution model - Application](https://nbviewer.jupyter.org/github/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/02_programming-assignments/Convolution%20model%20-%20Application/Convolution%20model%20-%20Application.ipynb)
 * Week2
-	* 01_case-studies
-		* [classic networks](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/01_case-studies/Classic%20networks.html)
-		* [resnet](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/01_case-studies/Residual%20block.html)
-		* [1 x 1 convolution](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/01_case-studies/1%20times%201%20convolution.html)
-		* [inception network](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/01_case-studies/Inception%20network.html)
-	* 02_practical-advices-for-using-convnets
-		* [transfer learning](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/Transfer%20learning.md)
-		* [data augmentation](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/Data%20augmentation.md)
-		* [state of computer vision](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/state%20of%20computer%20vision.md)
-		* [W2 Quiz Deep convolutional models](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/W2%20Quiz%20Deep%20convolutional%20models.html)
-	* 03_programming-assignments
-		* [Keras - Tutorial - Happy House](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/03_programming-assignments/Keras-Tutorial-Happy%20House/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
-		* [Residual Networks](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/03_programming-assignments/ResNets/Residual%20Networks.ipynb)
+  * 01_case-studies
+  	* [classic networks](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/01_case-studies/Classic%20networks.html)
+  	* [resnet](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/01_case-studies/Residual%20block.html)
+  	* [1 x 1 convolution](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/01_case-studies/1%20times%201%20convolution.html)
+  	* [inception network](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/01_case-studies/Inception%20network.html)
+  * 02_practical-advices-for-using-convnets
+  	* [transfer learning](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/Transfer%20learning.md)
+  	* [data augmentation](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/Data%20augmentation.md)
+  	* [state of computer vision](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/state%20of%20computer%20vision.md)
+  	* [W2 Quiz Deep convolutional models](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/02_practical-advices-for-using-convnets/W2%20Quiz%20Deep%20convolutional%20models.html)
+  * 03_programming-assignments
+  	* [Keras - Tutorial - Happy House](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/03_programming-assignments/Keras-Tutorial-Happy%20House/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
+  	* [Residual Networks](https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week2/03_programming-assignments/ResNets/Residual%20Networks.ipynb)
 
 * Week3
   * [object localization](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/Object%20localization.html)
@@ -125,8 +126,12 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
   * [putting together YOLO algorithm](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/Putting%20together%20YOLO%20algorithm.html)
   * [regional proposal R-CNN](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/Region%20proposal%20R-CNN.html)
   * [W3 Quiz Detection Algorithm](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week3/W3%20Quiz%20Detection%20Algorithm.html)
+  * [Assignment: Car detection with YOLOv2](<https://nbviewer.jupyter.org/github/yujuezhao/Car-detection-with-YOLOv2/blob/master/Autonomous%20driving%20application%20-%20Car%20detection.ipynb>)
 
 * Week4
   * [01_face-recognition](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/01_face-recognition/Face%20recognition.html)
   * [02_neural-style-transfer](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/02_neural-style-transfer/Neural%20style%20transfer.html)
   * [W4 Quiz Special applications：Face recognition & Neural style transfer](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/Special%20applications%EF%BC%9AFace%20recognition%20%26%20Neural%20style%20transfer.html)
+  * [Assignment: Face Recognition for the Happy House](<https://nbviewer.jupyter.org/github/yujuezhao/Face-Recognition-for-the-Happy-House/blob/master/Face%20Recognition%20for%20the%20Happy%20House.ipynb>)
+
+  * [Assignment Art Generation with Neural Style Transfer](<https://nbviewer.jupyter.org/github/yujuezhao/Art-generation-with-Neural-Style-Transfer/blob/master/Art%20Generation%20with%20Neural%20Style%20Transfer.ipynb>)

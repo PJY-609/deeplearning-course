@@ -1,16 +1,21 @@
 ### Dropout regularization
 
-* <img src='images\1.png' style='zoom:30'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson2/images/1.PNG' style='zoom:30'>
 
 * $Implementing\ dropout ("Inverted\ dropout")$
-  * *illustrate with layer l=3*
-  * $d3=np.random.rand(a3.shape[0],a3.shape[1])<keep\_prob,\ \\keep\_prob=0.8 $
-  * $a3=np.multiply(a3,d3)​$
-  * $a3/=keep\_prob$
-    * *Example*
-    * $50\ units\ \to \ 10\ units\ shut\ off$
-    * $z^{[4]}=w^{[4]}\underbrace{a^{[3]}}_{reduced\ by\ 20\%}+b^{[4]}$
-    * $avoid\ getting\ smaller: /=0.8$
+
+  1. $layer\ l=3$
+
+  2. $d3=np.random.rand(a3.shape[0],a3.shape[1])<keep\_prob,\ \\keep\_prob=0.8 $
+
+  3. $a3=np.multiply(a3,d3)$
+
+  4. $a3/=keep\_prob$
+* *Example*
+
+  * $50\ units\ \to \ 10\ units\ shut\ off$
+  * $z^{[4]}=w^{[4]}\underbrace{a^{[3]}}_{reduced\ by\ 20\%}+b^{[4]}​$
+  * $avoid\ getting\ smaller: /=0.8$
 
 ***
 

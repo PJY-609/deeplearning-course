@@ -1,16 +1,16 @@
 ### Regularization
 
-* $$
-  \mathop{min}_{w,b}J(w,b)
-  $$
+$$
+\mathop{min}_{w,b}J(w,b)
+$$
 
-* $$
-  J=(w,b)=
-  \frac{1}{m}
-  \sum_{i=1}^{m}\mathscr{L}(\hat y^{(i)},y^{(i)})
-  +
-  \frac{\lambda}{2m}\|w\|^2_2
-  $$
+$$
+J=(w,b)=
+\frac{1}{m}
+\sum_{i=1}^{m}\mathscr{L}(\hat y^{(i)},y^{(i)})
++
+\frac{\lambda}{2m}\|w\|^2_2
+$$
 
 * $L2\ regularization$
   $$
@@ -28,15 +28,15 @@
 
 ### In neural network
 
-* $$
-  J(w^{[1]},b^{[1]},...,w^{[L]},b^{[L]})=
-  \frac{1}{m}
-  \sum_{i=1}^{m}\mathscr{L}(\hat y^{(i)},y^{(i)})
-  +
-  \frac{\lambda}{2m}
-  \sum_{l=1}^{L}
-  \|w^{[l]}\|^2
-  $$
+$$
+J(w^{[1]},b^{[1]},...,w^{[L]},b^{[L]})=
+\frac{1}{m}
+\sum_{i=1}^{m}\mathscr{L}(\hat y^{(i)},y^{(i)})
++
+\frac{\lambda}{2m}
+\sum_{l=1}^{L}
+\|w^{[l]}\|^2
+$$
 
 * $Frobenius\ norm:\ \| \cdot\|^2_F$
   $$
@@ -54,7 +54,7 @@
   -
   \alpha(from\ backprop)
   $$
-  
+
 
 ***
 
@@ -65,3 +65,4 @@
   - $z^{[l]} \downarrow,\ the\ activation\ functions\ act\ more\ linear,\ thus\ avoiding\ overfitting$
 
 - pay attention to draw the whole term of cost function with the added regularization part
+

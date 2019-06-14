@@ -6,7 +6,7 @@
 
 2. Consider this RNN: 
 
-   <img src='images\1.PNG' width='80%'>
+   <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/5%E3%80%81Sequence%20Models/Week1/02_programming-assignments/images/1.PNG' width='80%'>
 
    This specific type of architecture is appropriate when
 
@@ -14,14 +14,14 @@
 
 3. To which of these tasks would you apply a many-to-one RNN architecture? (Check all that apply).
 
-   <img src='images\2.PNG' width='60%'>
+   <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/5%E3%80%81Sequence%20Models/Week1/02_programming-assignments/images/2.PNG' width='60%'>
 
    > * Sentiment classification (input a piece of text and output a 0/1 to denote positive or negative sentiment)
    > * Gender recognition from speech (input an audio clip and output a label indicating the speaker’s gender)
 
 4. You are training this RNN language model.
 
-   <img src='images\3.PNG' width='60%'>
+   <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/5%E3%80%81Sequence%20Models/Week1/02_programming-assignments/images/3.PNG' width='60%'>
 
    At the $t^{th}$ time step, what is the RNN doing? Choose the best answer.
 
@@ -29,7 +29,7 @@
 
 5. You have finished training a language model RNN and are using it to sample random sentences, as follows:
 
-   <img src='images\4.PNG' width='80%'>
+   <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/5%E3%80%81Sequence%20Models/Week1/02_programming-assignments/images/4.PNG' width='80%'>
 
    What are you doing at each time step t?
 
@@ -54,7 +54,7 @@
 
 8.  Here’re the update equations for the GRU
 
-   <img src='images\5.PNG' width='40%'>
+   <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/5%E3%80%81Sequence%20Models/Week1/02_programming-assignments/images/5.PNG' width='40%'>
 
    Alice proposes to simplify the GRU by always removing the $\Gamma_{u} .$ l.e., setting $\Gamma_{u}=1$. Betty proposes to simplify the GRU by removing the $\Gamma_{r} .$ I. e., setting $\Gamma_{r}=1$
    always. Which of these models is more likely to work without vanishing gradient
@@ -64,7 +64,7 @@
 
 9. Here are the equations for the GRU and the LSTM:
 
-   <img src='images\6.PNG'>
+   <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/5%E3%80%81Sequence%20Models/Week1/02_programming-assignments/images/6.PNG'>
 
    From these, we can see that the Update Gate and Forget Gate in the LSTM play a role similar to _______ and ______ in the GRU. What should go in the the blanks?
 

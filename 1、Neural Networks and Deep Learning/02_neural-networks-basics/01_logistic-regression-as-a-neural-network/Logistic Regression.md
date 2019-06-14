@@ -7,7 +7,7 @@
 
 * Sigmoid function: $\sigma (z)=\frac{1}{1+e^{-z}}​$
 
-  <img src="sig.jpg" style="zoom:50%">
+  <img src="https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/1%E3%80%81Neural%20Networks%20and%20Deep%20Learning/02_neural-networks-basics/01_logistic-regression-as-a-neural-network/sig.jpg" style="zoom:50%">
 
 ***
 

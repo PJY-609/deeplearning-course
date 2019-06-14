@@ -7,11 +7,11 @@
   * $p=padding=1$
   * $(n+2p-f+1)\times (n+2p-f+1)$
 
-<img src='images\6.PNG' height='70%' width='70%'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/4%E3%80%81Convolutional%20Neural%20Networks/Week1/01_convolutional-neural-networks/images/6.PNG' height='70%' width='70%'>
 
 ***
 
-### Valid and Same convolutions
+### <a name='valid-same'>Valid and Same convolutions</a>
 
 * **Valid**: no padding
 * **Same**: pad so that output size is the same size as the input size

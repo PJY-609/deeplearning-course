@@ -175,7 +175,20 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
     * [LSTM](<http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week1/01_recurrent-neural-networks/LSTM.html#L4>)
     * [Bidirectional RNN](<http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week1/01_recurrent-neural-networks/Bidirectional%20RNN%20(BRNN).html>)
     * [Deep RNN](<http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week1/01_recurrent-neural-networks/Deep%20RNN.html>)
-
+  * 02_programming-assignments
+    * [Building your Recurrent Neural Network - Step by Step](<https://nbviewer.jupyter.org/github/yujuezhao/Building-a-Recurrent-Neural-Network---Step-by-Step/blob/master/Building%20a%20recurrent%20neural%20network%20-%20step%20by%20step/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step.ipynb>)
+      * [RNN forward](<https://nbviewer.jupyter.org/github/yujuezhao/Building-a-Recurrent-Neural-Network---Step-by-Step/blob/master/Building%20a%20recurrent%20neural%20network%20-%20step%20by%20step/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step.ipynb#1---Forward-propagation-for-the-basic-Recurrent-Neural-Network>)
+      * [LSTM forward](<https://nbviewer.jupyter.org/github/yujuezhao/Building-a-Recurrent-Neural-Network---Step-by-Step/blob/master/Building%20a%20recurrent%20neural%20network%20-%20step%20by%20step/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step.ipynb#2---Long-Short-Term-Memory-(LSTM)-network>)
+      * [RNN backpropagation](<https://nbviewer.jupyter.org/github/yujuezhao/Building-a-Recurrent-Neural-Network---Step-by-Step/blob/master/Building%20a%20recurrent%20neural%20network%20-%20step%20by%20step/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step.ipynb#3.1---Basic-RNN--backward-pass>)
+      * [LSTM backpropagation](<https://nbviewer.jupyter.org/github/yujuezhao/Building-a-Recurrent-Neural-Network---Step-by-Step/blob/master/Building%20a%20recurrent%20neural%20network%20-%20step%20by%20step/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step.ipynb#3.2---LSTM-backward-pass>)
+    * [Dinosaur Island -- Character-level language model](<https://nbviewer.jupyter.org/github/yujuezhao/Dinosaur-Island----Character-level-language-model/blob/master/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model.ipynb>)
+      * [gradient clipping](<https://nbviewer.jupyter.org/github/yujuezhao/Dinosaur-Island----Character-level-language-model/blob/master/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model.ipynb#2.1---Clipping-the-gradients-in-the-optimization-loop>)
+      * [sampling](<https://nbviewer.jupyter.org/github/yujuezhao/Dinosaur-Island----Character-level-language-model/blob/master/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model.ipynb#2.2---Sampling>)
+    * [Jazz improvisation with LSTM](<https://nbviewer.jupyter.org/github/yujuezhao/Jazz-improvisation-with-LSTM/blob/master/Jazz%20improvisation%20with%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v1.ipynb>)
+      * [model implement](<https://nbviewer.jupyter.org/github/yujuezhao/Jazz-improvisation-with-LSTM/blob/master/Jazz%20improvisation%20with%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v1.ipynb#2---Building-the-model>)
+        * [Reshape()](https://keras.io/layers/core/#reshape)
+        * [LSTM()](https://keras.io/layers/recurrent/#lstm)
+        *  [Lambda()](https://keras.io/layers/core/#lambda)
   * [W1 Quiz Recurrent Neural Networks](<http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week1/02_programming-assignments/Recurrent%20Neural%20Networks.html>)
 
 * Week2
@@ -188,10 +201,17 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
   * [02_learning-word-embeddings-word2vec-glove](<http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week2/02_learning-word-embeddings-word2vec-glove/learning%20word%20embeddings%20word2vec.html>)
     * [word2vec](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week2/02_learning-word-embeddings-word2vec-glove/learning%20word%20embeddings%20word2vec.html#word2vec)
     * [GloVe](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week2/02_learning-word-embeddings-word2vec-glove/learning%20word%20embeddings%20word2vec.html#glove)
-
   * [03 application using word embeddings](<http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week2/03_applications-using-word-embeddings/application%20using%20word%20embeddings.html>)
     * [sentiment classification](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week2/03_applications-using-word-embeddings/application%20using%20word%20embeddings.html#sentiment)
     * [debiasing word embeddings](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week2/03_applications-using-word-embeddings/application%20using%20word%20embeddings.html#debias)
+  * 04_programming-assignments 
+    * [Operations on word vectors](<https://nbviewer.jupyter.org/github/yujuezhao/Word-Vector-Representation/blob/master/Word%20Vector%20Representation/Operations%20on%20word%20vectors%20-%20v1.ipynb>)
+      * [Word analogy](<https://nbviewer.jupyter.org/github/yujuezhao/Word-Vector-Representation/blob/master/Word%20Vector%20Representation/Operations%20on%20word%20vectors%20-%20v1.ipynb#2---Word-analogy-task>)
+      * [Debiasing word vectors](<https://nbviewer.jupyter.org/github/yujuezhao/Word-Vector-Representation/blob/master/Word%20Vector%20Representation/Operations%20on%20word%20vectors%20-%20v1.ipynb#3---Debiasing-word-vectors-(OPTIONAL/UNGRADED)>)
+    * [Emojify](<https://nbviewer.jupyter.org/github/yujuezhao/Emojify/blob/master/Emojify/Emojify%20-%20v1.ipynb#1.3---Implementing-Emojifier-V1>)
+      * [load glove.6B.50d.txt](<https://nbviewer.jupyter.org/github/yujuezhao/Emojify/blob/master/Emojify/Emojify%20-%20v1.ipynb#1.3---Implementing-Emojifier-V1>)
+      * [zero_padding](<https://nbviewer.jupyter.org/github/yujuezhao/Emojify/blob/master/Emojify/Emojify%20-%20v1.ipynb#2.2-Keras-and-mini-batching>)
+      * [Embedding()](<https://nbviewer.jupyter.org/github/yujuezhao/Emojify/blob/master/Emojify/Emojify%20-%20v1.ipynb#2.3---The-Embedding-layer>)
   * [W2 Quiz Natural Language Processing & Word Embeddings](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week2/Natural%20Language%20Processing%20%26%20Word%20Embeddings.html)
 
 * Week3
@@ -206,5 +226,12 @@ resources come from [link1](https://github.com/felipemaion/deeplearning-study) a
   * [02_speech-recognition-audio-data](<http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week3/02_speech-recognition-audio-data/Speech%20recognition%20audio%20data.html>)
     * [speech recognition & CTC cost](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week3/02_speech-recognition-audio-data/Speech%20recognition%20audio%20data.html#speech)
     * [trigger word detection](http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week3/02_speech-recognition-audio-data/Speech%20recognition%20audio%20data.html#trig)
+  * 04_programming-assignments
+    * [Neural Machine Translation](<https://nbviewer.jupyter.org/github/yujuezhao/Neural-Machine-Translation/blob/master/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb>)
+      * [attention mechanism](<https://nbviewer.jupyter.org/github/yujuezhao/Neural-Machine-Translation/blob/master/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb#2.1---Attention-mechanism>)
+        * [RepeatVector()](https://keras.io/layers/core/#repeatvector), [Concatenate()](https://keras.io/layers/merge/#concatenate), [Dot()](https://keras.io/layers/merge/#dot)
+        * [Bidirectional](https://keras.io/layers/wrappers/#bidirectional)
+    * [Trigger word detection](<https://nbviewer.jupyter.org/github/yujuezhao/Trigger-word-detection/blob/master/Trigger%20word%20detection%20-%20v1.ipynb>)
+      * [generate aodio samples](<https://nbviewer.jupyter.org/github/yujuezhao/Trigger-word-detection/blob/master/Trigger%20word%20detection%20-%20v1.ipynb#1.3---Generating-a-single-training-example>)
   * [W3 Quiz Sequence models & Attention mechanism](<http://htmlpreview.github.com/?https://github.com/yujuezhao/deeplearning-course/blob/master/5%E3%80%81Sequence%20Models/Week3/Sequence%20models%20%26%20Attention%20mechanism.html>)
 

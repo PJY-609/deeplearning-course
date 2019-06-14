@@ -2,13 +2,13 @@
 
 *Example*
 
-<img src='images\2.png'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/images/2.PNG'>
 
 * $v_t=\beta v_{t-1}+(1-\beta)\theta_t$
   * $v_t\ as\ approx.\ average\ over\ \approx \frac{1}{1-\beta}\ days\ temperature$
   * $\beta=0.9,\ approx.\ averg.\ over\ 10\ days $
   * **$\beta$ describes how much to rely on the previous values, and how well to adapt to the present changes**
-  * <img src='images\3.png'>
+  * <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/images/3.PNG'>
 
 ***
 
@@ -21,8 +21,6 @@ $v_{99}=0.9v_{98}+0.1\theta_{99}$
 $v_{98}=0.9v_{97}+0.1\theta_{98}$
 
 $\cdots$
-
-
 
 $v_{100}=0.1\theta_{100}+0.1\times0.9\theta_{99}+0.1\times0.9^2\theta_{98}+\cdots+$
 
@@ -50,9 +48,9 @@ $\}$
 
 ### Bias correction in exponentially weighted averages
 
-<img src='images\4.png'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/images/4.PNG'>
 
-* the *red curve* plotted when $\beta =0.9$
+* the *red curve* plotted when $\beta =0.9​$
 
 * the *green curve* plotted when $\beta = 0.98$
 

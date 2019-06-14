@@ -2,13 +2,13 @@
 
 ## Other regularization techniques
 
-#### Data augmentation
+#### <a name='data-augmentation'>Data augmentation</a>
 
 <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson2/images/2.PNG' style="zoom:30">
 
 ***
 
-#### Early stopping
+#### <a name='early-stopping'>Early stopping</a>
 
 <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week1/Lesson2/images/3.PNG' width='80%'>
 

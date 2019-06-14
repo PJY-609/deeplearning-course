@@ -2,7 +2,7 @@
 
 * normalize $z^{[l]}​$ to train $W^{[l+1]}, b^{[l+1]}​$ faster
 
-   <img src='images\1.png'>
+   <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson2/images/1.PNG' width='80%'>
 
 ***
 
@@ -83,11 +83,11 @@ $for\ t=1\ \cdots \ num\ of\ mini-batches$
 
 ***
 
-### Covariate shift
+### <a name='covariate-shift'>Covariate shift</a>
 
 * the distribution of training X and Y change, even though the function do the same work
 
-  <img src='images\2.png'>
+  <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson2/images/2.PNG'>
 
 * Batch norm makes the hidden units` output have mean and variance governed by $\beta $ and $\gamma $ .
 

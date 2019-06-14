@@ -23,5 +23,5 @@ $\beta\ is\ more\ sensitive\ when\ \beta\ is\ close\ to\ 1$
 
 ### strategy of choosing hyperparameters
 
-<img src='images\4.png'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson1/images/4.PNG' width='80%'>
 

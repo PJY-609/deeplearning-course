@@ -14,7 +14,7 @@ $Activation\ function: g^{[L]}(z^{[L]})$
 
 $a^{[L]}=g^{[L]}(z^{[L]}),\ a^{[L]}\ and\ z^{[L]}\ are\ (C, 1)$
 
-<img src='images\1.png'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson3/images/1.PNG' width='80%'>
 
 ***
 
@@ -32,5 +32,6 @@ $a^{[L]}=g^{[L]}(z^{[L]}),\ a^{[L]}\ and\ z^{[L]}\ are\ (C, 1)$
 * $\hat Y=\begin{bmatrix} \hat y^{(i)}&\cdots&\hat y^{(m)}  \end{bmatrix},\ \hat Y\in\mathbb{R}^{(C,m)}$
 
 * **Backprop**
+
   * $\frac{\partial \mathscr{J}}{\partial z^{[L]}}=dz^{[L]}=\hat y-y,\ dz^{[L]}\in \mathbb{R}^{(C,1)}$
 

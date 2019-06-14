@@ -6,19 +6,21 @@
 
 ***
 
-#### One-shot learning
+#### <a name='one-shot'>One-shot learning</a>
 
 <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/01_face-recognition/images/2.PNG' width='80%' height='80%'>
 
+> *one-shot learning*: recognizing a person's face by see it once in training dataset
+
 ***
 
-#### Siamese network
+#### <a name='siamese'>Siamese network</a>
 
 <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/01_face-recognition/images/3.PNG' width='80%' height='80%'>
 
 ***
 
-#### Triplet loss
+#### <a name='triplet'>Triplet loss</a>
 
 <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/01_face-recognition/images/4.PNG' width='80%' height='80%'>
 
@@ -42,7 +44,7 @@
 
 ***
 
-#### Face recognition and binary classification
+#### <a name='bi'>Face recognition and binary classification</a>
 
 <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/01_face-recognition/images/7.PNG' width='80%' height='80%'>
 

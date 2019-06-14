@@ -1,64 +1,62 @@
 ### Shallow neural network overview
 
-* hidden layer
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/1%E3%80%81Neural%20Networks%20and%20Deep%20Learning/03_shallow-neural-networks/01_shallow-neural-network/images/1.PNG' width='60%'>
 
-  <img src='images\1.PNG'>
+> hidden layer
 
 ***
 
 ### Neural network representation
 
-* 
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/1%E3%80%81Neural%20Networks%20and%20Deep%20Learning/03_shallow-neural-networks/01_shallow-neural-network/images/1556943153281.png' width='40%'>
 
-  ![1556943153281](images\1556943153281.png)
+* $$
+  \begin{cases}
+  z_i^{[l]}=(w_i^{[l]})^Tx+b_i^{[l]}\\
+  a_i^{[l]}=\sigma(z_i^{[l]})
+  \end{cases}
+  $$
 
-  * $$
-    \begin{cases}
-    z_i^{[l]}=(w_i^{[l]})^Tx+b_i^{[l]}\\
-    a_i^{[l]}=\sigma(z_i^{[l]})
-    \end{cases}
-    $$
+* $$
+  a_{i \gets node\ in\ layer}^{[l] \gets layer}
+  $$
 
-  * $$
-    a_{i \gets node\ in\ layer}^{[l] \gets layer}​
-    $$
+* $$
+  Z^{[1]}=
+  \underbrace{
+  \begin{bmatrix}
+  \cdots & (w_1^{[1]})^T & \cdots \\
+  \cdots & (w_2^{[1]})^T & \cdots \\
+  \cdots & (w_3^{[1]})^T & \cdots \\
+  \cdots & (w_4^{[1]})^T & \cdots 
+  \end{bmatrix}
+  }_{W^{[1]} \in \mathbb{R^{4 \times 3}}}
+  \begin{bmatrix}
+  x_1\\
+  x_2\\
+  x_3
+  \end{bmatrix}
+  +
+  \underbrace{
+  \begin{bmatrix}
+  b_1^{[1]}\\
+  b_2^{[1]}\\
+  b_3^{[1]}\\
+  b_4^{[1]}
+  \end{bmatrix}
+  }_{b^{[1]} \in \mathbb{R^{4 \times 1}}}
+  =
+  \begin{bmatrix}
+  z_1^{[1]}\\
+  z_2^{[1]}\\
+  z_3^{[1]}\\
+  z_4^{[1]}
+  \end{bmatrix}
+  $$
 
-  * $$
-    Z^{[1]}=
-    \underbrace{
-    \begin{bmatrix}
-    \cdots & (w_1^{[1]})^T & \cdots \\
-    \cdots & (w_2^{[1]})^T & \cdots \\
-    \cdots & (w_3^{[1]})^T & \cdots \\
-    \cdots & (w_4^{[1]})^T & \cdots 
-    \end{bmatrix}
-    }_{W^{[1]} \in \mathbb{R^{4 \times 3}}}
-    \begin{bmatrix}
-    x_1\\
-    x_2\\
-    x_3
-    \end{bmatrix}
-    +
-    \underbrace{
-    \begin{bmatrix}
-    b_1^{[1]}\\
-    b_2^{[1]}\\
-    b_3^{[1]}\\
-    b_4^{[1]}
-    \end{bmatrix}
-    }_{b^{[1]} \in \mathbb{R^{4 \times 1}}}
-    =
-    \begin{bmatrix}
-    z_1^{[1]}\\
-    z_2^{[1]}\\
-    z_3^{[1]}\\
-    z_4^{[1]}
-    \end{bmatrix}
-    $$
-
-  * $$
-    a^{[1]}=\sigma(Z^{[1]})
-    $$
+* $$
+  a^{[1]}=\sigma(Z^{[1]})
+  $$
 
 ***
 
@@ -123,21 +121,21 @@
 
 * **tanh function** $tanh(z)=\frac{e^z-e^{-z}}{e^z+e^{-z}}​$
   * $g^{[i]}(z^{[i]})=tanh(z^{[i]})$
-  * <img src='images\2.jpg' style='zoom:50%'>
+  * <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/1%E3%80%81Neural%20Networks%20and%20Deep%20Learning/03_shallow-neural-networks/01_shallow-neural-network/images/2.jpg' style='zoom:50%'>
 * when placed in **hidden layer**, *tanh* performs better than *sigmoid* functions, because it inclines to center on 0, which makes learning easier.
 * In **output layer**,  in the case of **binary classification**,  sigmoid is still frequently used. 
 
 * Downside of *sigmoid* and *tanh*
   * when input z either very large or small, the slope tents to be trivial, which slows the learning process
 * **ReLU function** 
-  * <img src='images\3.jpg' style="zoom:50%">
+  * <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/1%E3%80%81Neural%20Networks%20and%20Deep%20Learning/03_shallow-neural-networks/01_shallow-neural-network/images/3.jpg' style="zoom:50%">
 
 * General principle
   * hidden layer: *ReLU*(in practice preferred)/*tanh*/*leaky ReLU* 
   * binary classification output: *sigmoid*
 * **leaky ReLU**
   * $a=max(0.01z, z)$
-  * <img src='images\4.jpg' style='zoom:50%'>
+  * <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/1%E3%80%81Neural%20Networks%20and%20Deep%20Learning/03_shallow-neural-networks/01_shallow-neural-network/images/4.jpg' style='zoom:50%'>
 
 ***
 
@@ -228,7 +226,7 @@
 ### Random initialization
 
 * What if initializing the weights to zero
-  * ![1556972928281](images\1556972928281.png)
+  * <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/1%E3%80%81Neural%20Networks%20and%20Deep%20Learning/03_shallow-neural-networks/01_shallow-neural-network/images/1556972928281.png'>
   * $then\ W^{[1]}=\begin{bmatrix} 0&0\\0&0 \end{bmatrix}$
   * $a^{[1]}=a^{[2]},\ the\ hidden\ layer\ would\ be\ symmetric$
 

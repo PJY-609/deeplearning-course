@@ -2,7 +2,7 @@
 
 * fixed learning rate, and noise in mini-batches lead to wandering around the optimal point
 
-  <img src='images\6.png'>
+  <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week2/Lesson1/images/6.PNG'>
 
 * slowly reduce learning rate
   * at first it is ok to take bigger steps

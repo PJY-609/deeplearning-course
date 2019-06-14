@@ -6,7 +6,7 @@
 
 ***
 
-#### what  are deep convnets learning
+#### <a name='vis'>what  are deep convnets learning</a>
 
 <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/02_neural-style-transfer/images/2.PNG' width='80%' height='80%'>
 
@@ -32,7 +32,7 @@
 
 ***
 
-#### Content cost function
+#### <a name='cont'>Content cost function</a>
 
 <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/02_neural-style-transfer/images/5.PNG' width='80%' height='80%'>
 
@@ -44,7 +44,7 @@
 
 ***
 
-#### Style cost function
+#### <a name='style'>Style cost function</a>
 
 <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/02_neural-style-transfer/images/6.PNG' width='80%' heigth='80%'>
 
@@ -72,7 +72,7 @@
 
 ***
 
-#### 1D and 3D generalizations
+#### <a name='3d'>1D and 3D generalizations</a>>
 
 <img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/4%E3%80%81Convolutional%20Neural%20Networks/Week4/02_neural-style-transfer/images/10.PNG' width='80%' height='80%'>
 

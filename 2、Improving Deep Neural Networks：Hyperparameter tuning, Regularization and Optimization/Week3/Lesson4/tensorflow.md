@@ -4,7 +4,7 @@
 import numpy as np 
 import tensorflow as tf
 
-coefficients = np.array([[1], [-20], [25]])
+coefficients = np.array([[1], [-20], [25]])
 w = tf.Variable([0],dtype=tf.float32)
 x = tf.placeholder(tf.float32, [3,1])
 cost = x[0][0]*w**2 + x[1][0]*w + x[2][0]    # (w-5)**2
@@ -19,5 +19,5 @@ for i in range(1000):
 print(session.run(w))
 ```
 
-<img src='images\1.png'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/2%E3%80%81Improving%20Deep%20Neural%20Networks%EF%BC%9AHyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3/Lesson4/images/1.PNG'>
 

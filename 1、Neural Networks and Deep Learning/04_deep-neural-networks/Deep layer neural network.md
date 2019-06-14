@@ -1,11 +1,11 @@
 ### Deep layer neural network
 
-* ![1557040378004](images\1557040378004.png)
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/1%E3%80%81Neural%20Networks%20and%20Deep%20Learning/04_deep-neural-networks/images/1557040378004.png' width='60%'>
 
 * $n^{[l]}= num\ of units\ in\ l^{th}\ layer$
 * $L=num\ of\ total\ layer$
 
-* $a^{[l]}=g^{[l]}(z^{[l]}),\ a^{[0]}=x$
+* $a^{[l]}=g^{[l]}(z^{[l]}),\ a^{[0]}=x​$
 * $W^{[l]},\ b^{[l]}=weights\ for\ z^{[l]}$
 
 ***
@@ -34,9 +34,9 @@
 
 ### Building blocks of deep neural network
 
-* <img src='images\1.PNG' style='zoom:60%'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/1%E3%80%81Neural%20Networks%20and%20Deep%20Learning/04_deep-neural-networks/images/1.PNG' style='zoom:60%'>
 
-* <img src='images\2.PNG' style='zoom:80%'>
+<img src='https://raw.githubusercontent.com/yujuezhao/deeplearning-course/master/1%E3%80%81Neural%20Networks%20and%20Deep%20Learning/04_deep-neural-networks/images/2.PNG' style='zoom:80%'>
 
 ***
 
